@@ -1,7 +1,7 @@
 print("Byalek Gleb")
 
 # Yandex.Contest №1
-a,b = [int(item) for item in input().split(" ")]
+a,b = [int(item) for item in input().split(" ")] 
 
 print(a + b)
 
